@@ -77,11 +77,7 @@ input {
   overflow-y: scroll;
   padding-top: 10px;
   position: relative;
-  width: 414px;
-}
-
-::-webkit-scrollbar {
-  width: 0;
+  width: 405px;
 }
 
 .result__video {
